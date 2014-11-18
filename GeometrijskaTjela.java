@@ -4,7 +4,7 @@ public class GeometrijskaTjela {
 	public static void main(String[] args) {
 		int Stranica = 5;
 		double Radius = Stranica / 2.0;
-		double Nasumice = (0.5 + Math.random() * 36.7);
+		double Nasumice = (0.5 + Math.random() * 36.2);
 		System.out.println ("Površina kvadrata");
 		System.out.println (Stranica * Stranica);	
 		System.out.println ("Zapremina Kocke");
